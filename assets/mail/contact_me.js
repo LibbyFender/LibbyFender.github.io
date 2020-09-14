@@ -57,7 +57,7 @@ $(function () {
                         $("<strong>").text(
                             "Sorry " +
                                 firstName +
-                                ", it seems that my mail server is not responding. Please try again later!"
+                                ", but I currently host this site on github, so only static sites. No forms, but if you e-mail me at ef8856a@american.edu, I will respond. Also, I do track my linkedin messages! Thanks for the interest."
                         )
                     );
                     $("#success > .alert-danger").append("</div>");
